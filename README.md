@@ -1,9 +1,3 @@
-# bus_ticket_mangament_system_netbean_java
-
-Here's a draft for the `README.md` file based on the provided PDF content:
-
----
-
 # Bus Ticket Booking Management System
 
 ## Overview
