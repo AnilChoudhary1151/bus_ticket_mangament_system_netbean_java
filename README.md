@@ -32,5 +32,5 @@ The Bus Ticket Booking Management System is a computer-based management system d
 
 Include screenshots of the application here to give a visual representation of the system.
 
-![Data Flow Diagram](Bus_Ticket_poster.pdf)
+[Data Flow Diagram](Bus_Ticket_poster.pdf)
 
